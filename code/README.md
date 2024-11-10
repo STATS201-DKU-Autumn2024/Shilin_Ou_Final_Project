@@ -20,3 +20,5 @@ Table1: Predicted WTI price and WACC value over time(2020-2100)
 
 Table2: The relationship between WTI price and WACC value
 
+Detailed code: https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet1/blob/main/code/code_p1.ipynb
+
