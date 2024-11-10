@@ -46,7 +46,7 @@ Detailed code in https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shili
 - **Python**: 3.11.4
 
 ## Installed Packages
-For a complete list of installed packages, refer to the file 
+For a complete list of installed packages, refer to the file https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet1/refs/heads/main/installed_packages.txt
 
 ## Dependency Setup
 To set up dependencies in your environment, run the following command:
