@@ -6,7 +6,7 @@
 For the WTI spot price data, historical values were extracted from an Excel file(Iania et al., 2024) and focused on columns containing Date and Real WTI Spot Price. The Date column was converted to datetime format and set as the DataFrame index. To ensure consistency for machine learning models, the WTI spot prices were normalized using min-max scaling, transforming the data to a range between 0 and 1. This preprocessing supports robust, unbiased model training.
 
 ## Detailed Data
-The DataSet of wacc: https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet1/refs/heads/main/data/Global_Energy_Scenario——Data.csv
+The DataSet of wacc: https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet1/blob/main/data/Global_Energy_Scenario——Data.csv
 
 The DataSet of WTI price: https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet1/blob/main/data/WTI_price.xlsx
 
