@@ -8,4 +8,10 @@ For the WTI spot price data, historical values were extracted from an Excel file
 ## Detailed Data
 The DataSet of wacc: https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet1/refs/heads/main/data/Global_Energy_Scenario——Data.csv
 
-The DataSet of WTI price:
+The DataSet of WTI price: https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet1/blob/main/data/WTI_price.xlsx
+
+## Refferences
+
+Calcaterra, M., Reis, L. A., P. Fragkos, T. Briera, de, S., Egli, F., Emmerling, J., Iyer, G., Mittal, S., Polzin, J., Sanders, L., Schmidt, T. S., A. Serebriakova, Steffen, B., van, Vuuren, van, Waidelich, P., & M. Tavoni. (2024). Reducing the cost of capital to finance the energy transition in developing countries. Nature Energy. https://doi.org/10.1038/s41560-024-01606-7
+
+Iania, L., Lyrio, M., & Nersisyan, L. (2024). Oil price shocks and bond risk premia: Evidence from a panel of 15 countries. Energy Economics, 107940–107940. https://doi.org/10.1016/j.eneco.2024.107940
