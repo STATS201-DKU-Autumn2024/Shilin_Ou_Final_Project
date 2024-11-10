@@ -40,7 +40,7 @@
 - **Mounted on**: N/A
 
 ## code for system configyration
-Detailed code in
+Detailed code in https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet1/refs/heads/main/System%20Configuration%20Report.ipynb
 
 ## Python Version
 - **Python**: 3.11.4
