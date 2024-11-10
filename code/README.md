@@ -12,5 +12,11 @@ The code's primary goal is to analyze and model the relationship between oil pri
 The analysis reveals a clear trend of decreasing WACC values from 2020 to 2100, with the WACC reducing from 7.68% in 2020 to 5.58% in 2100, reflecting the long-term reduction in the cost of capital across the energy transition scenarios. Using a Gradient Boosting Regressor, the relationship between WTI prices and WACC was modeled. The model yielded an R-squared value of 0.1977, indicating a correlation between WTI price fluctuations and WACC changes. The Mean Squared Error (MSE) was 0.0002, suggesting reasonable accuracy in predictions, although further model refinement may be necessary. The feature importance of WTI prices was recorded as [1.], implying that, in this model, WTI prices were the sole factor influencing WACC.
 
 
-<img width="1019" alt="image" src="https://github.com/user-attachments/assets/709ed2d4-4067-4a38-a178-2b804a21f386">
+<img width="1019" alt="image" src="https://github.com/user-attachments/assets/ee1d2306-d22b-4bc4-af77-5d47e750d4bc">
+
 Table1: Predicted WTI price and WACC value over time(2020-2100)
+
+<img width="970" alt="image" src="https://github.com/user-attachments/assets/be0ff7d2-9758-4a4f-96ad-0cce44d20306">
+
+Table2: The relationship between WTI price and WACC value
+
