@@ -85,3 +85,4 @@ Table3: The relationship between WTI price and WACC value
 
 3. Shilin Ou: write the code to process the data.
 
+Detailed code: https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/refs/heads/main/code/code_p1.ipynb
