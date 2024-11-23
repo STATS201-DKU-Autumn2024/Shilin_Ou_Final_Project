@@ -18,7 +18,10 @@ Functionality: This file contains annual WACC data, which is used to analyze how
 4. sentiment_analysis.py  
 Functionality: This script fetches news articles related to WTI oil using NewsAPI, performs sentiment analysis using the VADER sentiment analysis tool from NLTK, and calculates an average sentiment score for the news articles.
 
-5. visualizations.py  
+5. prediction_model.py  
+Functionality: This file contains code for training and evaluating a Gradient Boosting Regressor model to predict WACC based on the predicted WTI prices. The model is trained, and performance metrics like R-squared and MSE are calculated.
+
+6. visualizations.py  
 Functionality: This script generates visualizations for the analysis, including:
 Dual y-axis plot comparing WTI prices and WACC over time.
 Scatter plot with a linear regression fit for WTI price vs. WACC based on different datasets (annual WACC and global scenario WACC).
