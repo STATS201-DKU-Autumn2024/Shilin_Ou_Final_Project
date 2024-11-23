@@ -18,7 +18,7 @@ The DataSet of wacc: https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_Proble
 
 The DataSet of WTI price: https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet1/blob/main/data/WTI_price.xlsx
 
-The Dataset of average anual Wacc values after process Calcaterra et al.'s (2024) dataset:
+The Dataset of average anual Wacc values after process Calcaterra et al.'s (2024) dataset:https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/refs/heads/main/data/annual_wacc.csv
 
 The Dataset of future WTI price prediction after processing Iania et al.'s (2024) dataset: https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/refs/heads/main/data/future_wti_predictions.csv
 
