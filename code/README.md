@@ -15,16 +15,10 @@ Functionality: This dataset contains information about global energy scenarios, 
 3. annual_wacc.csv  
 Functionality: This file contains annual WACC data, which is used to analyze how changes in WACC affect WTI prices over time. It includes columns such as the year and average WACC.
 
-4. wti_price_analysis.py  
-Functionality: This script loads the WTI price data, normalizes it, and trains an LSTM model for predicting future WTI prices based on past price history. It also handles preprocessing and data transformations.
-
-5. sentiment_analysis.py  
+4. sentiment_analysis.py  
 Functionality: This script fetches news articles related to WTI oil using NewsAPI, performs sentiment analysis using the VADER sentiment analysis tool from NLTK, and calculates an average sentiment score for the news articles.
 
-6. wacc_prediction_model.py  
-Functionality: This file contains code for training and evaluating a Gradient Boosting Regressor model to predict WACC based on the predicted WTI prices. The model is trained, and performance metrics like R-squared and MSE are calculated.
-
-7. visualizations.py  
+5. visualizations.py  
 Functionality: This script generates visualizations for the analysis, including:
 Dual y-axis plot comparing WTI prices and WACC over time.
 Scatter plot with a linear regression fit for WTI price vs. WACC based on different datasets (annual WACC and global scenario WACC).
