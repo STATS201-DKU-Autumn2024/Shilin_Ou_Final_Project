@@ -1,9 +1,17 @@
 #  The impact of oil price fluctuations on Weighted Average Cost of Capital (wacc) within energy transition.
 
-## Summary for the data
-  The data used for this analysis comes from two primary sources: the global energy scenarios by Calcaterra et al. (2024) and WTI（West Texas Intermediate） spot price data from Iania et al. (2024). For the WACC (Weighted Average Cost of Capital) analysis, annual WACC values were calculated by averaging the 'maxwacc' and 'minwacc' values for each scenario in Calcaterra et al.'s research, representing varying economic conditions. To avoid bias, equal weighting was assumed across all scenarios, resulting in an average WACC per year.
-  
-For the WTI spot price data, historical values were extracted from an Excel file(Iania et al., 2024) and focused on columns containing Date and Real WTI Spot Price. The Date column was converted to datetime format and set as the DataFrame index. To ensure consistency for machine learning models, the WTI spot prices were normalized using min-max scaling, transforming the data to a range between 0 and 1. This preprocessing supports robust, unbiased model training.
+## The source and purpose of the datase
+The data used for this analysis comes from two primary sources: the global energy scenarios by Calcaterra et al. (2024) and WTI（West Texas Intermediate） spot price data from Iania et al. (2024). 
+
+The purpose of using the dataset is to predict the trend of WTI (West Texas Intermediate) spot oil prices from 2025 to 2100 by collecting historical WTI spot oil price data. Specifically, the historical WTI spot oil price data in Iania et al. (2024) will be used for machine learning modeling to predict the future trend of WTI oil prices. Then, these predicted results will be integrated with the WACC (weighted average cost of capital) forecast results in Calcaterra et al. (2024), which represent the economic conditions under different energy transition scenarios.
+
+The main goal of this analysis is to explore the impact of WTI oil price fluctuations on future WACC, especially in the context of energy transition. By comparing the predicted WTI oil prices with the estimated WACC results, we can analyze the potential impact of oil price fluctuations on capital costs, which is a key factor in energy infrastructure investment decision-making. This analysis will provide important insights to help us understand how oil price fluctuations affect the formulation of future energy transition strategies and changes in the financing environment.
+## Preprocessing and harmonization step
+
+The Calcaterra et al. (2024) dataset encompasses WACC (weighted average cost of capital) values for diverse energy scenarios, which are represented by the annual "maxwacc" and "minwacc" values for each scenario. These values are averaged to obtain an annual estimate of WACC, guaranteeing that the weight of each scenario is identical, thereby reducing bias in the analysis.
+
+The Iania et al. (2024) dataset comprises historical spot WTI prices, with data columns including "Date" and "Real WTI Spot Price". The preprocessing steps involve converting the "Date" column to a date-time format and setting it as the index of the dataset. Subsequently, the real WTI spot price is normalized using the minimum-maximum normalization method, converting the numerical values to a uniform range from 0 to 1 for robust and unbiased model training.
+ 
 
 ## Detailed Data
 The DataSet of wacc: https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet1/blob/main/data/Global_Energy_Scenario——Data.csv
