@@ -6,7 +6,7 @@ The purpose of this code is to study the impact of future WTI prices on the weig
 
 ## Files Included
 
-1.future_wti_predictions.csv \n.
+1.future_wti_predictions.csv.'\n'
 Functionality: Contains the predicted future WTI prices from a trained LSTM model. This file stores the historical and predicted price data along with associated years.
 
 Global_Energy_Scenario——Data.csv
