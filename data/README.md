@@ -18,6 +18,9 @@ The DataSet of wacc: https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_Proble
 
 The DataSet of WTI price: https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet1/blob/main/data/WTI_price.xlsx
 
+The Dataset of average anual Wacc values after process Calcaterra et al.'s (2024) dataset:
+
+The Dataset of future WTI price prediction after processing Iania et al.'s (2024) dataset:
 ## Refferences
 
 Calcaterra, M., Reis, L. A., P. Fragkos, T. Briera, de, S., Egli, F., Emmerling, J., Iyer, G., Mittal, S., Polzin, J., Sanders, L., Schmidt, T. S., A. Serebriakova, Steffen, B., van, Vuuren, van, Waidelich, P., & M. Tavoni. (2024). Reducing the cost of capital to finance the energy transition in developing countries. Nature Energy. https://doi.org/10.1038/s41560-024-01606-7
