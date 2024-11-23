@@ -60,11 +60,23 @@ This step generates a dual-axis plot to visualize the relationship between WTI p
 6. Relationship Between Predicted WTI Prices and WACC
 This step visualizes the relationship between predicted WTI prices and WACC using two data sources: annual WACC data and global energy scenario data. After loading and processing these datasets, they are merged based on the year. The plot displays scatter points for WTI vs. annual WACC (in red) and WTI vs. scenario WACC (in blue). A linear regression line with a confidence interval is added for the annual WACC data. Each data point is annotated with its corresponding year, enhancing the readability of the time trends and helping to better analyze the evolution of the data.
 
+## Result
 
-Table1: Predicted WTI price and WACC value over time(2020-2100)
+The analysis shows that oil prices, represented by WTI, have a moderate influence on the Weighted Average Cost of Capital (WACC) in the energy transition sector, though not being the main factor. The Gradient Boosting model, trained to predict WACC based only on WTI prices, got an R-squared value of 0.1977, indicating that about 20% of the variation in WACC can be explained by oil price fluctuations. While the Mean Squared Error (MSE) is low, this reflects the model's limited ability to predict WACC solely from WTI, highlighting that although there is some correlation, it is not strong.
 
+The dual-axis line plot and scatter plot with a linear regression fit show some correlation patterns between WTI and WACC over time, but they are not extremely strong, reinforcing the statistical findings. Overall, while oil prices do have an impact on WACC to some extent, a broader set of economic, policy, and technological variables must also be considered when evaluating capital costs for energy transition financing.
 
-Table2: The relationship between WTI price and WACC value
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/6963b386-5acd-4dc2-9224-15e39e9f1d51">
+
+Table1: Sentiment Distribution for WTi Oil News Articles
+
+<img width="1008" alt="image" src="https://github.com/user-attachments/assets/a55325d3-f1d7-4192-90cd-aca8abe3d6e1">
+
+Table2: Predicted WTI price and WACC value over time(2020-2100)
+
+<img width="975" alt="image" src="https://github.com/user-attachments/assets/8314b8d4-0016-4a70-b92f-641c0ada01db">
+
+Table3: The relationship between WTI price and WACC value
 
 
 
