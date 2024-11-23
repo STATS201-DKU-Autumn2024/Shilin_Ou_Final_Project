@@ -78,5 +78,10 @@ Table2: Predicted WTI price and WACC value over time(2020-2100)
 
 Table3: The relationship between WTI price and WACC value
 
+## Contributors
+1. Calcaterra et al. (2024): provide the dataset and evaluation modle of wacc.
 
+2. Iania et al. (2024): provide thw historical dataset of wti.
+
+3. Shilin Ou: write the code to process the data.
 
