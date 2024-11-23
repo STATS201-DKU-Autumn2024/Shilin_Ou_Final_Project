@@ -6,25 +6,25 @@ The purpose of this code is to study the impact of future WTI prices on the weig
 
 ## Files Included
 
-1.future_wti_predictions.csv.  
+1. future_wti_predictions.csv.  
 Functionality: Contains the predicted future WTI prices from a trained LSTM model. This file stores the historical and predicted price data along with associated years.
 
-Global_Energy_Scenario——Data.csv
+2. Global_Energy_Scenario——Data.csv  
 Functionality: This dataset contains information about global energy scenarios, including the maximum and minimum WACC values for each year. The code calculates the average WACC (avgwacc) from these values for use in modeling.
 
-annual_wacc.csv
+3. annual_wacc.csv  
 Functionality: This file contains annual WACC data, which is used to analyze how changes in WACC affect WTI prices over time. It includes columns such as the year and average WACC.
 
-wti_price_analysis.py
+4. wti_price_analysis.py  
 Functionality: This script loads the WTI price data, normalizes it, and trains an LSTM model for predicting future WTI prices based on past price history. It also handles preprocessing and data transformations.
 
-sentiment_analysis.py
+5. sentiment_analysis.py  
 Functionality: This script fetches news articles related to WTI oil using NewsAPI, performs sentiment analysis using the VADER sentiment analysis tool from NLTK, and calculates an average sentiment score for the news articles.
 
-wacc_prediction_model.py
+6. wacc_prediction_model.py  
 Functionality: This file contains code for training and evaluating a Gradient Boosting Regressor model to predict WACC based on the predicted WTI prices. The model is trained, and performance metrics like R-squared and MSE are calculated.
 
-visualizations.py
+7. visualizations.py  
 Functionality: This script generates visualizations for the analysis, including:
 Dual y-axis plot comparing WTI prices and WACC over time.
 Scatter plot with a linear regression fit for WTI price vs. WACC based on different datasets (annual WACC and global scenario WACC).
