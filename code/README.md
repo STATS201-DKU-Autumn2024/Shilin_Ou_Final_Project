@@ -81,7 +81,7 @@ Table2: Predicted WTI price and WACC value over time(2020-2100)
 ![image](https://github.com/user-attachments/assets/46ad6e19-846c-4c98-b504-15995ce3310d)
 
 
-Table3: The relationship between WTI price and WACC value
+Table3: The relationship between WTI price and WACC value  (The plot displays scatter points for WTI vs. annual WACC (in red) and WTI vs. scenario WACC (in blue). A linear regression line with a confidence interval is added for the annual WACC data. Each data point is annotated with its year, enhancing readability of time trends.)
 
 ## Contributors
 1. Calcaterra et al. (2024): provide the dataset and evaluation modle of wacc.
