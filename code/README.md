@@ -70,18 +70,18 @@ The dual-axis line plot and scatter plot with a linear regression fit show some 
 
 
 
-Table1: Sentiment Distribution for WTi Oil News Articles (the propotion of positive/neutral/negtive feelings shown in the news and articles)
+Table1: Sentiment Distribution for WTi Oil News Articles    (the propotion of positive/neutral/negtive feelings shown in the news and articles)
 
 
 <img width="932" alt="image" src="https://github.com/user-attachments/assets/78ee35fa-266d-48ef-ae8c-ad19c969c023">
 
 
-Table2: Predicted WTI price and WACC value over time(2020-2100)  (The chart shows the relationship between the average WACC (Weighted Average Cost of Capital) and the predicted WTI (West Texas Intermediate) price over the period from 2020 to 2100, using dual Y-axes for scaling. )
+Table2: Predicted WTI price and WACC value over time(2020-2100)   (The chart shows the relationship between the average WACC (Weighted Average Cost of Capital) and the predicted WTI (West Texas Intermediate) price over the period from 2020 to 2100, using dual Y-axes for scaling. )
 
 ![image](https://github.com/user-attachments/assets/46ad6e19-846c-4c98-b504-15995ce3310d)
 
 
-Table3: The relationship between WTI price and WACC value  (The plot displays scatter points for WTI vs. annual WACC (in red) and WTI vs. scenario WACC (in blue). A linear regression line with a confidence interval is added for the annual WACC data. Each data point is annotated with its year, enhancing readability of time trends.)
+Table3: The relationship between WTI price and WACC value    (The plot displays scatter points for WTI vs. annual WACC (in red) and WTI vs. scenario WACC (in blue). A linear regression line with a confidence interval is added for the annual WACC data. Each data point is annotated with its year, enhancing readability of time trends.)
 
 ## Contributors
 1. Calcaterra et al. (2024): provide the dataset and evaluation modle of wacc.
