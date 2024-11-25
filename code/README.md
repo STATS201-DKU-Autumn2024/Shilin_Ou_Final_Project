@@ -66,17 +66,20 @@ The analysis shows that oil prices, represented by WTI, have a moderate influenc
 
 The dual-axis line plot and scatter plot with a linear regression fit show some correlation patterns between WTI and WACC over time, but they are not extremely strong, reinforcing the statistical findings. Overall, while oil prices do have an impact on WACC to some extent, a broader set of economic, policy, and technological variables must also be considered when evaluating capital costs for energy transition financing.
 
-<img width="422" alt="image" src="https://github.com/user-attachments/assets/e2c8ded1-4a0d-4723-b021-8b9ed3fb2ae3">
+![image](https://github.com/user-attachments/assets/ac65ab76-b75e-4d6e-8340-e65fb81378fb)
+
 
 
 Table1: Sentiment Distribution for WTi Oil News Articles
 
-<img width="1009" alt="image" src="https://github.com/user-attachments/assets/64b403d1-3706-4bc6-aaa1-b5a0aa9157c1">
+
+<img width="932" alt="image" src="https://github.com/user-attachments/assets/78ee35fa-266d-48ef-ae8c-ad19c969c023">
 
 
 Table2: Predicted WTI price and WACC value over time(2020-2100)
 
-<img width="967" alt="image" src="https://github.com/user-attachments/assets/2b080476-dcbe-4ef1-9284-fdd262ca10b3">
+![image](https://github.com/user-attachments/assets/46ad6e19-846c-4c98-b504-15995ce3310d)
+
 
 Table3: The relationship between WTI price and WACC value
 
