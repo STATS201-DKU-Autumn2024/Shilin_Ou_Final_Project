@@ -1,4 +1,4 @@
-# Shilin_Ou_ProblemSet1
+# System Configuration
 
 ## CPU Information
 - **Architecture**: arm64
