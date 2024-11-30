@@ -9,5 +9,8 @@ Table3: Predicted WTI price and WACC value over time(2020-2100) (The chart shows
 Table4: The relationship between WTI price and WACC value (The plot displays scatter points for WTI vs. annual WACC (in red) and WTI vs. scenario WACC (in blue). A linear regression line with a confidence interval is added for the annual WACC data. Each data point is annotated with its year, enhancing readability of time trends.)
 
 
+## Detailed visualization
+Poster: https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/refs/heads/main/visualizations/Poster
+Demo Vedio: https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/demo_video_with_audio.mp4
 
 
