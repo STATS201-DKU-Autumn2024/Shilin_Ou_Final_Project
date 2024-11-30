@@ -54,7 +54,7 @@ Create videos and enhance them with background music.
 ## Poster and Report
 The proposal report：https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Shilin_Ou_Final_Proposal.docx 
 
-ORhttps://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md
+OR https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md
 
 
 Poster：[https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/poster](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/Poster.png)
