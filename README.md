@@ -25,7 +25,7 @@ Through this project, I gained a comprehensive understanding of how machine lear
 ### Project Poster
 https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/Poster.png
 ## Table of Contents
-1. [ Background and Motivation:](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md##Background_and_Motivation)
+1. [ Background and Motivation:](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#background_and_motivation)
 2. [Methodology](#methodology)
 3. [Results](#results)
 4. [Navigation Instructions](#navigation-instructions)
