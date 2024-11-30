@@ -62,5 +62,4 @@ Detailed analysis and findings are presented in:
 - **Reports**: `output/reports/`
 - **Model Performance**: `output/models/`
 
----
-For any queries, feel free to reach out via the Issues tab of this repository.
+
