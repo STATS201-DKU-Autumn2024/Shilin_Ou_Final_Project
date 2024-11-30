@@ -60,6 +60,8 @@ This step generates a dual-axis plot to visualize the relationship between WTI p
 6. Relationship Between Predicted WTI Prices and WACC
 This step visualizes the relationship between predicted WTI prices and WACC using two data sources: annual WACC data and global energy scenario data. After loading and processing these datasets, they are merged based on the year. The plot displays scatter points for WTI vs. annual WACC (in red) and WTI vs. scenario WACC (in blue). A linear regression line with a confidence interval is added for the annual WACC data. Each data point is annotated with its corresponding year, enhancing the readability of the time trends and helping to better analyze the evolution of the data.
 
+7.Generate the demo vedio
+
 ## Expected Outputs
 
 The analysis shows that oil prices, represented by WTI, have a moderate influence on the Weighted Average Cost of Capital (WACC) in the energy transition sector, though not being the main factor. The Gradient Boosting model, trained to predict WACC based only on WTI prices, got an R-squared value of 0.1977, indicating that about 20% of the variation in WACC can be explained by oil price fluctuations. While the Mean Squared Error (MSE) is low, this reflects the model's limited ability to predict WACC solely from WTI, highlighting that although there is some correlation, it is not strong.
