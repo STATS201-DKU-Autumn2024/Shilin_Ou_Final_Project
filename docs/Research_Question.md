@@ -1,3 +1,0 @@
-## Research Question:
-
-This study aims to explore the intersection of social science and machine learning by analyzing how oil price trends affect market perceptions, risk assessments, and financing decisions for renewable energy. Specifically, it focuses on how fluctuations in oil prices influence the Weighted Average Cost of Capital (WACC) for energy transition projects in the future. By using social science frameworks to examine societal and policy responses, along with machine learning models for forecasting oil prices and simulating investment scenarios, the research intends to provide a comprehensive understanding of how oil price volatility shapes the financial landscape of energy transition and the associated cost of capital.
