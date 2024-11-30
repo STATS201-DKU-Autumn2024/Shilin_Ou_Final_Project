@@ -40,30 +40,23 @@ https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visual
 This repository is organized as follows:
 
 ### Code
-- **Location**: `code/`
-- **Description**: Contains Python scripts for simulations, visualizations, and machine learning models.
-  - `wacc_simulations.py`: Code for simulating WACC scenarios.
-  - `sentiment_analysis.py`: Scripts using VADER and BERT for sentiment analysis.
-  - `price_forecasting_lstm.py`: LSTM implementation for oil price forecasting.
-  - `model_evaluation.py`: Evaluation metrics and visualizations for predictive models.
+- **Location**: [`code/`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/tree/main/code)
+- **Description**: Calculating WACC for different scenarios, performing sentiment analysis on news and visualizing keywords, predicting future WTI prices using an LSTM model, building a gradient boosting model to predict the average WACC based on WTI prices, and displaying the trend of WACC and WTI prices over time and the relationship between them.
+  - `Detailed code: https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/refs/heads/main/code/code_p1.ipynb
+
 
 ### Datasets
-- **Location**: `data/`
-- **Description**: Includes raw and preprocessed datasets.
-  - `raw/`: Original datasets (e.g., historical WTI prices, WACC data).
-  - `processed/`: Cleaned and transformed datasets for analysis.
+- **Location**: [`data/`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/tree/main/data)
+- **Description**: The data used for this analysis comes from two primary sources: the global energy scenarios by Calcaterra et al. (2024) and WTI（West Texas Intermediate） spot price data from Iania et al. (2024).
+  
 
 ### Documentation
-- **Location**: `docs/`
-- **Description**: Includes detailed documentation on:
-  - **Preprocessing steps**: Methods used for cleaning and transforming datasets.
-  - **Dependencies**: A list of required libraries and installation instructions.
-  - **References**: Citation of external sources and academic works.
+- **Location**: [`docs/`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/tree/main/docs)
 
-## Results
-Detailed analysis and findings are presented in:
-- **Visualizations**: `output/visualizations/`
-- **Reports**: `output/reports/`
-- **Model Performance**: `output/models/`
+### Visualization
+- **Location**:[`Visualization/`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/tree/main/visualizations)
+
+### System Contiguration
+- **Location**:[`System_Contiguration/`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/System_Configuration.md)
 
 
