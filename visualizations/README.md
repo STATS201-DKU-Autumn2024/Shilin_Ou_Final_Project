@@ -11,6 +11,8 @@ Table4: The relationship between WTI price and WACC value (The plot displays sca
 
 ## Detailed visualization
 Poster: https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/refs/heads/main/visualizations/Poster
+
+
 Demo Vedio: https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/demo_video_with_audio.mp4
 
 
