@@ -46,18 +46,19 @@ This repository is organized as follows:
 
 
 ### [`Data`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/tree/main/data)
- - **Description**: The data used for this analysis comes from two primary sources: the global energy scenarios by Calcaterra et al. (2024) and WTI（West Texas Intermediate） spot price data from Iania et al. (2024).
- [The source and purpose of the datase](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/data/README.md#the-source-and-purpose-of-the-datase)
- [Preprocessing and harmonization step](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/data/README.md#preprocessing-and-harmonization-step)
-[Detailed Dataset](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/data/README.md#detailed-data)
-[Data Dictionary](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/data/README.md#data-dictionary)
+ - **Description**: The data used for this analysis comes from two primary sources: the global energy scenarios by Calcaterra et al. (2024) and WTI（West Texas Intermediate） spot price data from Iania et al. (2024).  
+ - **[The source and purpose of the datase](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/data/README.md#the-source-and-purpose-of-the-datase)**
+ - **[Preprocessing and harmonization step](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/data/README.md#preprocessing-and-harmonization-step)**
+- **[Detailed Dataset](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/data/README.md#detailed-data)**
+- **[Data Dictionary](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/data/README.md#data-dictionary)**
 
 ### [`Documentation`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/tree/main/docs)
-[Code Execution](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/README.md#code-execution)
-[Dependencies](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/README.md#dependencies)
-[Example Usage](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/README.md#example-usage)
-### [`Visualization/`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/tree/main/visualizations)
+- **[Code Execution](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/README.md#code-execution)**
+- **[Dependencies](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/README.md#dependencies)**
+- **[Example Usage](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/README.md#example-usage)**
 
-### [`System_Contiguration/`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/System_Configuration.md)
+### [`Visualization`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/tree/main/visualizations)
+
+### [`System_Contiguration`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/System_Configuration.md)
 
 
