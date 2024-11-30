@@ -23,8 +23,7 @@ Through this project, I gained a comprehensive understanding of how machine lear
 [[Watch the Demo Video](<link-to-demo-video>)](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/demo_video_with_audio.mp4)
 
 ### Project Poster
-![Project Poster](<link-to-poster-image>)
-
+https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/Poster.png
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Methodology](#methodology)
