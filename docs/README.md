@@ -24,7 +24,7 @@ Save the script as a Python file and execute it through your terminal or command
 A CSV file containing predicted WTI prices.  
 Visualization videos (with and without background music).  
 
-Detaied code explanation and instruction: [https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/tree/main/docs](https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/refs/heads/main/code/README.md)
+Detaied code explanation and instruction: [[https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/tree/main/docs](https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/refs/heads/main/code/README.md)](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/code/README.md)
 ## Dependencies
 
 Make sure the following libraries are installed:
