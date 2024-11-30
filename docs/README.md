@@ -1,24 +1,28 @@
 
-## Code Execution & Example Usage
-1. Calculate the Average WACC  
-This step calculates the annual WACC for each scenario by averaging the maxwacc and minwacc values from Calcaterra et al. (2024). Then, it computes the average WACC across all scenarios for each year, providing the base data for subsequent analysis.
+## Code Execution
 
-2. Sentiment Analysis and Visualization (NLP)  
-This step uses the VADER (Valence Aware Dictionary and sEntiment Reasoner) algorithm for sentiment analysis of short texts, like news articles. It calculates sentiment scores ranging from -1 (negative) to +1 (positive) based on the words and punctuation. Additionally, a word cloud is generated to visualize the most frequent terms in the articles, helping identify key themes. Combining sentiment analysis with word cloud visualization, the code provides both quantitative sentiment scores and qualitative insights into the main topics, offering a comprehensive analysis of public sentiment and key discussions surrounding WTI oil prices.
-
-3. Predicting Future WTI Prices (LSTM)
-This step uses an LSTM model to predict future WTI spot prices based on historical data from Iania et al. (2024). The data is preprocessed, normalized, and converted into sequences for training. After training, the model predicts WTI prices at five-year intervals from 2020 to 2100. Additionally, sentiment analysis is applied to news articles about WTI oil, and the resulting sentiment scores are used to gauge market sentiment, which may influence the price predictions.
-
-4. Predicting Average WACC Based on WTI Prices
-This step builds and evaluates a Gradient Boosting Regressor model to predict the average Weighted Average Cost of Capital (WACC) based on predicted WTI prices. The code loads the WTI price predictions and global energy scenario data, calculates the average WACC for each year, and merges the data. After splitting the data into training and testing sets, the model is trained to predict the average WACC. The model’s performance is evaluated on the test set, providing valuable insights for future financial decisions and analysis.
-
-5. Trends of WACC and WTI Prices Over Time  
-This step generates a dual-axis plot to visualize the relationship between WTI prices and annual WACC over time. The left y-axis represents the annual WACC, ranging from 0 to 0.1, shown with a red line, while the right y-axis represents WTI prices, limited to the range of 24 to 30, shown with a blue line.
-
-6. Relationship Between Predicted WTI Prices and WACC
-This step visualizes the relationship between predicted WTI prices and WACC using two data sources: annual WACC data and global energy scenario data. After loading and processing these datasets, they are merged based on the year. The plot displays scatter points for WTI vs. annual WACC (in red) and WTI vs. scenario WACC (in blue). A linear regression line with a confidence interval is added for the annual WACC data. Each data point is annotated with its corresponding year, enhancing the readability of the time trends and helping to better analyze the evolution of the data.
-
-7.Generate the demo vedio
+#### Install Required Python Dependencies:
+Ensure Python is installed on your system.
+Install the required libraries using pip. The list of libraries is provided below under "Dependencies."
+#### Download NLTK Data:
+Open Python and run the command to download the necessary data for sentiment analysis. This includes the vader_lexicon.
+Install FFmpeg:
+FFmpeg is required to create and edit videos.
+On macOS, install FFmpeg via Homebrew.
+On Ubuntu, install it using the package manager.
+On Windows, download FFmpeg from its official website, install it, and ensure it is added to your system's PATH.
+#### Prepare Input Files:
+Place the following input files in the same directory as your script:  
+A file containing WTI price data (e.g., an Excel file with date and real WTI spot prices).  
+A global energy scenario data file (e.g., a CSV file containing year, scenario, and WACC values).  
+Optionally, provide a background music file in .ogg format for use in video creation.
+#### Update File Paths in the Script:
+Edit the script to ensure the file paths point to the correct location of your input files.  
+#### Run the Script:
+Save the script as a Python file and execute it through your terminal or command prompt.  
+#### Review the Outputs:  
+A CSV file containing predicted WTI prices.  
+Visualization videos (with and without background music).  
 
 ## Dependencies
 
