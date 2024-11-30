@@ -1,6 +1,6 @@
 # Title: The impact of oil price fluctuations on Weighted Average Cost of Capital (wacc) within energy transition.
 
-## Background and Motivation:
+## Background_and_Motivation
 
 Volatility in oil prices brings uncertainty to energy transition projects and affects the capital cost for investors. Fluctuations in oil prices also influence the relative competitiveness of various energy sources such as natural gas, coal, and renewables, thus affecting investment patterns and the capital costs related to energy projects (Lin & Cheung, 2024). A comprehensive understanding of the implications of oil price volatility is necessary as it enhances risk management strategies and shapes investment decisions in the energy transition field.
 
@@ -8,17 +8,17 @@ Previous studies have proved that various aspects can play a role in shaping the
   
 Similarly, the impact of oil price fluctuations on WACC is a complex issue that has been studied in various academic works. Studies (Calcaterra et al., 2024) emphasize the importance of fair finance in ensuring energy availability and sustainability. Empirical analyses have shown that the cost of capital (CoC) varies across countries and technologies, and developing countries often have higher CoC due to higher perceived risks (Fuso Nerini et al., 2017). Integrating these financial dynamics into climate policy and the energy transition is crucial for understanding the implications of oil price volatility on investment decisions and the global shift towards sustainable energy sources.
 
-## Research Question:
+## Research_Question
 
 This study aims to explore the intersection of social science and machine learning by analyzing how oil price trends affect market perceptions, risk assessments, and financing decisions for renewable energy. Specifically, it focuses on how fluctuations in oil prices influence the Weighted Average Cost of Capital (WACC) for energy transition projects in the future. By using social science frameworks to examine societal and policy responses, along with machine learning models for forecasting oil prices and simulating investment scenarios, the research intends to provide a comprehensive understanding of how oil price volatility shapes the financial landscape of energy transition and the associated cost of capital.
 
-## Application Scenarios:
+## Application_Scenarios
 
 The dataset for this study comes from industries closely linked to the energy sector, such as renewable energy, fossil fuels, and finance. Data sources include historical oil price datasets from global energy markets (e.g., Brent Crude and WTI prices), investment cost data for renewable technologies (e.g., solar, wind, and hydropower), and financial metrics like the Weighted Average Cost of Capital (WACC) across different energy projects. These datasets are directly in line with the research question as they help analyze the relationships between oil price volatility, market perceptions, and WACC in energy transition projects. Historical oil price trends are essential for forecasting future volatility using machine learning models, while financial data on investment costs and WACC allow for scenario simulations of how different oil price levels affect capital allocation
 
 Consequently, Energy companies can use these findings to make strategic investment decisions, and policymakers can formulate regulations to stabilize the impact of oil price volatility on energy financing. Financial institutions will benefit from a clearer understanding of the associated risks, allowing for more informed investment strategies. Moreover, this research supports sustainable development goals by ensuring accessible energy financing, especially in developing countries, and helps mitigate climate change by influencing the pace of the global shift towards low-carbon energy systems.
 
-## Methodology:
+## Methodology
 
 As illustrated in Figure 1, the methodology encompasses three key stages. First, the study calculates the average WACC values based on the research data of Calcaterra et al. (2024). We collect the maximum weighted average cost of capital (maxWACC) and the minimum weighted average cost of capital (minWACC) for each scenario in Calcaterra et al.’s (2024) study. Assuming that the weight of each scenario is equal, we calculate the average of the annual WACC of all scenarios.
 
@@ -30,19 +30,19 @@ Finally, as shown in Figure 1, the Gradient Boosting Regressor was employed to p
   
 The combination of machine learning models, sentiment analysis, and visualization constituted a robust framework for analyzing the relationship between WTI prices and WACC, laying the foundation for an in-depth exploration of their impact.
 
-## Results:
+## Results
 
 Based on the methodology, the analysis shows that WTI-represented oil prices have a moderate effect on the WACC in the energy transition sector. The Gradient Boosting model, trained to predict WACC only based on WTI prices, got an R-squared value of 0.1977, meaning that about 20% of the WACC variation can be attributed to oil price fluctuations. Though the MSE is low, this indicates the model's limited ability to predict WACC just from WTI, stressing that while there is some correlation, it's not the main factor.
 
 This moderate R-squared value indicates that WTI prices likely contribute to variations in WACC, potentially influencing capital costs by affecting investor sentiment and energy market dynamics. However, WTI prices are not the dominant drivers. Other factors—such as market uncertainties (Egli et al., 2021), policy and regulatory risks (Zhou et al., 2021), and advancements in technologies (Polzin et al., 2021)—appear to play a more substantial role in shaping financing costs for energy transition projects.
 
-## Intellectual Merit and Practical Impacts:
+## Intellectual_Merit_and_Practical_Impacts
 
 This research improves the existing literature by integrating machine learning and social science to study how oil price fluctuations affect the Weighted Average Cost of Capital (WACC) in energy transition projects. Based on previous studies like Calcaterra et al. (2024), which show the differences in financing costs among countries, and Zhou et al. (2021), which stress the role of policy in shaping WACC, this study adds value by including machine learning techniques such as sentiment analysis (VADER and BERT) and predictive modeling (LSTM and Gradient Boosting). By combining these methods with social science insights, the research offers a unique, interdisciplinary way to understand the financial and behavioral impacts of oil price volatility, helping to have a deeper understanding of WACC dynamics in renewable energy.
 
 The study also finds areas for future exploration, dealing with key limitations that inspire new research. For example, although the results suggest a moderate correlation between oil prices and WACC, further work could explore the role of other influential factors, such as technological advancements (Polzin et al., 2021) or economic stability (Fuso Nerini et al., 2017). Expanding the dataset to include real-time data streams or looking into regional differences in WACC drivers would provide more detailed insights. Moreover, the ethical challenges pointed out, such as biases in data and accountability in AI-driven decision-making, are in line with the calls for fair and transparent financing tools (Egli et al., 2021). Future research could explore causal inference techniques or policy simulations to discover how targeted interventions, like subsidies or carbon pricing, influence WACC, contributing to the wider field of sustainable energy transition financing.
 
-## Practical Impact
+## Practical_Impact
 
 This study furnishes actionable insights into the way oil price fluctuations influence the Weighted Average Cost of Capital (WACC) in energy transition projects, proffering substantial benefits for both industry and policy. Energy companies can leverage these findings to formulate resilient investment strategies and allocate resources efficaciously between fossil fuels and renewables. Policymakers can devise adaptive regulations, such as dynamic subsidies or carbon pricing, to stabilize renewable energy financing, facilitating a smoother transition to sustainable energy systems.
 
@@ -65,8 +65,8 @@ Lin, Y., & Cheung, A. (Wai K. (2024). Climate policy uncertainty and energy tran
 
 Zhou, X., Wilson, C., & Caldecott, B. (2021). The energy transition and changing financing costs. Oxford Review of Economic Policy.
 
-## Appendix1：Discussion about other machine learning methods
-
+## Appendix1
+### Discussion about other machine learning methods
 #### Explanation:
 Natural Language Processing (NLP) methods, such as VADER and BERT, can assist in analyzing public sentiment and social perceptions concerning oil price changes. By extracting sentiment scores from social media, news articles, and policy reports, these methods can elucidate the psychological and societal drivers underlying investment behaviors and market dynamics. NLP techniques enable the study to contextualize quantitative results by revealing how investor sentiment or public discourse contributes to shifts in the Weighted Average Cost of Capital (WACC), providing enhanced interpretability for financial data.
 
