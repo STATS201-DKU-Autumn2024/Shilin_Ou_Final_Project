@@ -1,5 +1,9 @@
 # Title: The impact of oil price fluctuations on Weighted Average Cost of Capital (wacc) within energy transition.
 
+## Abstract
+
+This study undertakes an examination of the impact of oil price fluctuations on the Weighted Average Cost of Capital (WACC) in energy transition projects, integrating social science insights with machine learning techniques. Utilizing historical WTI oil prices and sentiment analysis models (VADER and BERT), the research explores how market perceptions and price trends influence financing dynamics. Long Short-Term Memory (LSTM) networks are employed to forecast oil prices, while Gradient Boosting is utilized to predict WACC variations. The results demonstrate a moderate correlation, with oil prices accounting for 20% of the variability in WACC. The findings provide actionable insights for energy companies, policymakers, and financial institutions, facilitating the advancement of sustainable energy financing and global climate goals.
+
 ## Background_and_Motivation
 
 Volatility in oil prices brings uncertainty to energy transition projects and affects the capital cost for investors. Fluctuations in oil prices also influence the relative competitiveness of various energy sources such as natural gas, coal, and renewables, thus affecting investment patterns and the capital costs related to energy projects (Lin & Cheung, 2024). A comprehensive understanding of the implications of oil price volatility is necessary as it enhances risk management strategies and shapes investment decisions in the energy transition field.
