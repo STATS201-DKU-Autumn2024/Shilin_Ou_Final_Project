@@ -49,7 +49,7 @@ This repository is organized as follows:
 - **[Prerequisites](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/code/README.md#prerequisites)**
 - **[Usage Instructions](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/code/README.md#usage-instructions)**
 - **[Expected Outputs](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/code/README.md#expected-outputs)**
-  - [Detailed code](https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/refs/heads/main/code/code_p1.ipynb)
+- **[Detailed code](https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/refs/heads/main/code/code_p1.ipynb)**
 
 
 ### [`Data`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/tree/main/data)
