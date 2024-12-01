@@ -19,11 +19,12 @@ We extend our gratitude to:
 Through this project, I gained a comprehensive understanding of how machine learning and social science can intersect to address real-world challenges in the energy sector. I developed technical skills in sentiment analysis using VADER and BERT models, time-series forecasting with LSTM, and predictive modeling with Gradient Boosting. Moreover, this experience reinforced the importance of interdisciplinary approaches in solving complex problems and prepared me for future research and industry applications in sustainable energy and financial analytics.
 
 ## Embedded Media
-### Demo Video
-[[Watch the Demo Video](<link-to-demo-video>)](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/demo_video_with_audio.mp4)
+### [Demo Video](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/demo_video_with_audio.mp4)
 
-### Project Poster
-https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/Poster.png
+### [Project Poster](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/Poster.png)
+
+### [Full Report](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_Final_Project/blob/main/docs/Full_Report.md#title-the-impact-of-oil-price-fluctuations-on-weighted-average-cost-of-capital-wacc-within-energy-transition)
+
 ## Table of Contents
 1. [Abstract](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#abstract)
 2. [ Background and Motivation:](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#background_and_motivation)
