@@ -25,16 +25,17 @@ Through this project, I gained a comprehensive understanding of how machine lear
 ### Project Poster
 https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/Poster.png
 ## Table of Contents
-1. [ Background and Motivation:](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#background_and_motivation)
-2. [Research Question](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#research_question)
-3. [Application_Scenarios](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#application_scenarios)
-4. [Methodology](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#methodology)
-5. [Results](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#results)
-6. [Intellectual Merit And Practical_impacts](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#intellectual_merit_and_practical_impacts)
-7. [Practical_Impact](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#practical_impact)
-8. [References](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#references)
-9. [Appendix1](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#appendix1)
-10. [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
+1. [Abstract](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#abstract)
+2. [ Background and Motivation:](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#background_and_motivation)
+3. [Research Question](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#research_question)
+4. [Application_Scenarios](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#application_scenarios)
+5. [Methodology](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#methodology)
+6. [Results](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#results)
+7. [Intellectual Merit And Practical_impacts](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#intellectual_merit_and_practical_impacts)
+8. [Practical_Impact](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#practical_impact)
+9. [References](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#references)
+10. [Appendix1](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/docs/Full_Report.md#appendix1)
+11. [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
 
 ## Navigation Instructions
 This repository is organized as follows:
