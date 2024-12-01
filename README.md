@@ -43,6 +43,11 @@ This repository is organized as follows:
 ### [`Code`](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/tree/main/code)
 
 - **Description**: Calculating WACC for different scenarios, performing sentiment analysis on news and visualizing keywords, predicting future WTI prices using an LSTM model, building a gradient boosting model to predict the average WACC based on WTI prices, and displaying the trend of WACC and WTI prices over time and the relationship between them.
+- **[Overview](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/code/README.md#overview)**
+- **[Files Included](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/code/README.md#files-included)**
+- **[Prerequisites](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/code/README.md#prerequisites)**
+- **[Usage Instructions](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/code/README.md#usage-instructions)**
+- **[Expected Outputs](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/code/README.md#expected-outputs)**
   - [Detailed code](https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/refs/heads/main/code/code_p1.ipynb)
 
 
