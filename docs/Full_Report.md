@@ -70,6 +70,11 @@ Industries can incorporate the study’s machine learning models into risk manag
 However, the large-scale deployment of AI-driven solutions gives rise to governance and ethical challenges. Bias in training data, such as the overrepresentation of trends from developed markets, may lead to inaccurate recommendations for developing countries, where investment risks and financing dynamics are different. Sentiment analysis, which relies on public data from news and social media, must also follow privacy regulations like GDPR to protect individual rights. Moreover, errors in AI-driven forecasts of oil prices or WACC could mislead policymakers and investors, causing inefficient resource allocation or ineffective regulations. Regular audits of models, transparency in their methodologies, and integration with expert input are necessary to ensure reliability and trust. Inclusive governance frameworks should also deal with systemic inequalities in access to financing, making sure AI technologies promote fair and responsible energy transitions globally.
 
 ## References
+
+Bachner, G., Mayer, J., & Steininger, K. W. (2019). Costs or benefits? Assessing the economy-wide effects of the electricity sector’s low carbon transition – the role of capital costs, divergent risk perceptions and premiums. Energy Strategy Reviews, 26, 100373. https://doi.org/10.1016/j.esr.2019.100373
+
+Best, R. (2017). Switching towards coal or renewable energy? The effects of financial capital on energy transitions. Energy Economics, 63, 75–83. https://doi.org/10.1016/j.eneco.2017.01.019
+
 Calcaterra, M., Reis, L. A., P. Fragkos, T. Briera, de, S., Egli, F., Emmerling, J., Iyer, G., Mittal, S., Polzin, J., Sanders, L., Schmidt, T. S., A. Serebriakova, Steffen, B., van, Vuuren, van, Waidelich, P., & M. Tavoni. (2024). Reducing the cost of capital to finance the energy transition in developing countries. Nature Energy. https://doi.org/10.1038/s41560-024-01606-7
 
 Egli, F., Steffen, B., Polzin, F., & Schmidt, T. S. (2021). The effect of differentiating costs of capital by country and technology on the European energy transition. Climatic Change, 167(26). https://doi.org/10.1007/s10584-021-03163-4
