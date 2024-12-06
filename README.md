@@ -19,7 +19,7 @@ We extend our gratitude to:
 Through this project, I gained a comprehensive understanding of how machine learning and social science can intersect to address real-world challenges in the energy sector. I developed technical skills in sentiment analysis using VADER and BERT models, time-series forecasting with LSTM, and predictive modeling with Gradient Boosting. Moreover, this experience reinforced the importance of interdisciplinary approaches in solving complex problems and prepared me for future research and industry applications in sustainable energy and financial analytics.
 
 ## Embedded Media
-### [Demo Video](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/demo_video_with_audio.mp4)
+### [Demo Video](https://duke.zoom.us/rec/share/fiR_Ohrr-ilq5QmTd0zuZ9qeyQMzEW2pGporuLAOqba0yIPDLkdko6zUglv182nv.bNhl8mQXDJDYVlPz?startTime=1733470231000)
 
 ### [Project Poster](https://github.com/STATS201-DKU-Autumn2024/Shilin_Ou_ProblemSet/blob/main/visualizations/Poster.png)
 
